@@ -1,0 +1,15 @@
+{
+  "title": "Galerie Médias",
+  "subtitle": "Découvrez nos photos et vidéos des événements passés",
+  "pageTitle": "Galerie complète",
+  "pageSubtitle": "Notre vision, nos actions et notre impact pour un avenir durable",
+  "discoverMore": "Découvrir plus",
+  "empty": "Galerie en construction : aucun élément disponible pour le moment.",
+  "error": "Impossible de charger la galerie pour le moment.",
+  "filters": {
+    "all": "Tout",
+    "festivals": "Festivals",
+    "environment": "Environnement",
+    "community": "Communauté"
+  }
+}

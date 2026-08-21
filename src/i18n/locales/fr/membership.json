@@ -1,0 +1,57 @@
+{
+  "title": "Devenir Membre",
+  "subtitle": "Rejoignez notre communauté et participez activement à nos missions",
+  "plans": {
+    "sympathisant": {
+      "name": "Membre Sympathisant",
+      "price": "Gratuit",
+      "benefits": [
+        "Newsletter mensuelle",
+        "Invitations aux événements publics",
+        "Accès aux ressources éducatives",
+        "Certificat de sympathisant"
+      ]
+    },
+    "actif": {
+      "name": "Membre Actif",
+      "price": "15 000 FCFA/an",
+      "badge": "Populaire",
+      "benefits": [
+        "Tous les avantages sympathisant",
+        "Participation aux assemblées",
+        "Accès aux ateliers exclusifs",
+        "Carte de membre officielle",
+        "Réductions sur les événements"
+      ]
+    },
+    "bienfaiteur": {
+      "name": "Membre Bienfaiteur",
+      "price": "50 000 FCFA/an",
+      "benefits": [
+        "Tous les avantages précédents",
+        "Participation au conseil consultatif",
+        "Mention dans nos publications",
+        "Rencontres privilégiées",
+        "Rapport d'activité personnalisé"
+      ]
+    }
+  },
+  "cta": "S'inscrire",
+  "form": {
+    "title": "Devenir Membre",
+    "plan": "Type d'adhésion",
+    "planPlaceholder": "Sélectionnez un plan",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "city": "Ville/Commune",
+    "cityPlaceholder": "Ex: Ouagadougou, Bobo-Dioulasso…",
+    "profession": "Profession",
+    "motivation": "Motivation",
+    "motivationPlaceholder": "Pourquoi souhaitez-vous rejoindre l'APCDD ?",
+    "termsAgreement": "J'accepte les conditions d'adhésion et la politique de confidentialité",
+    "submit": "S'inscrire",
+    "success": "Inscription réussie !",
+    "error": "Erreur réseau ou serveur, merci de réessayer plus tard."
+  }
+}

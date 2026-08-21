@@ -1,0 +1,39 @@
+{
+  "title": "Soutenez Nos Actions",
+  "text": "Votre générosité nous permet de mener à bien nos projets culturels et environnementaux. Chaque contribution compte et fait la différence dans la vie des communautés africaines.",
+  "impacts": {
+    "trees": { "amount": "5 000 FCFA", "label": "Plante 10 arbres" },
+    "artisan": { "amount": "10 000 FCFA", "label": "Forme un artisan" },
+    "festival": { "amount": "25 000 FCFA", "label": "Soutient un festival" },
+    "project": { "amount": "50 000 FCFA", "label": "Lance un projet" }
+  },
+  "form": {
+    "title": "Faire un don",
+    "amount": "Montant du don (FCFA)",
+    "customAmount": "Autre montant en FCFA",
+    "donorName": "Nom complet",
+    "donorEmail": "Email",
+    "donorPhone": "Téléphone",
+    "purpose": "Destination du don",
+    "purposes": {
+      "general": "Fonds général",
+      "environment": "Projets environnementaux sahéliens",
+      "culture": "Promotion culturelle africaine",
+      "education": "Programmes éducatifs communautaires",
+      "rural": "Développement rural"
+    },
+    "paymentMethod": "Mode de paiement",
+    "paymentMethodPlaceholder": "Choisir un mode de paiement",
+    "paymentMethods": {
+      "mobile": "Mobile Money (Orange/Moov/Airtel)",
+      "bank": "Virement bancaire local",
+      "cash": "Espèces au bureau",
+      "western": "Western Union"
+    },
+    "anonymous": "Don anonyme",
+    "submit": "Faire le don",
+    "success": "Merci pour votre don !",
+    "error": "Erreur réseau ou serveur, merci de réessayer plus tard.",
+    "invalidAmount": "Veuillez sélectionner ou saisir un montant de don valide."
+  }
+}

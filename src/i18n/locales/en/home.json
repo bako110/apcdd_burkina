@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "discoverMission": "Discover our mission",
+    "joinUs": "Join us"
+  },
+  "stats": {
+    "activeMembers": "Committed members",
+    "projectsDone": "Projects completed",
+    "treesPlanted": "Trees planted",
+    "villagesTouched": "Villages supported"
+  },
+  "about": {
+    "title": "Our Mission",
+    "subtitle": "We build a bridge between African tradition and sustainable innovation to create a better future",
+    "cards": [
+      {
+        "title": "African Cultural Promotion",
+        "text": "Celebrating and preserving the richness of African culture through festivals, exhibitions, and artistic events that honor our ancestral heritage while adapting it to the continent's contemporary challenges."
+      },
+      {
+        "title": "Sustainable Development in Africa",
+        "text": "Promoting environmentally responsible practices suited to the African context and raising awareness of local ecological issues. We combine traditional African solutions with modern innovation."
+      },
+      {
+        "title": "Community Action",
+        "text": "Mobilizing African communities to create high-impact projects that bring together culture, education, and development. Together, we build sustainable, inclusive solutions tailored to our realities."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Focus Areas",
+    "subtitle": "Concrete actions for a lasting, measurable impact across Africa",
+    "items": [
+      {
+        "key": "culture",
+        "title": "African Culture & Arts",
+        "summary": "African cultural festivals, traditional concerts, local art exhibitions, and preservation of Burkinabè intangible heritage",
+        "details": "Our Culture & Arts program aims to preserve and promote the rich cultural heritage of our communities through a range of initiatives: organizing annual cultural festivals that showcase local traditions, exhibitions of traditional art and craftsmanship, workshops for passing on ancestral know-how, traditional music and dance performances, and documentation programs to safeguard intangible heritage. We work closely with artisans, artists, and tradition-bearers to ensure our cultural legacy endures."
+      },
+      {
+        "key": "education",
+        "title": "Community Education",
+        "summary": "Tailored educational programs, training workshops, transmission of ancestral African knowledge, and functional literacy",
+        "details": "Our education program aims to raise awareness and train communities on sustainable development issues while honoring traditional knowledge: educational workshops in schools and community centers, vocational training programs in traditional trades, environmental protection awareness campaigns, intergenerational exchanges for knowledge transmission, and educational materials adapted to local realities. We believe education is the key to the sustainable, harmonious development of our communities."
+      },
+      {
+        "key": "environment",
+        "title": "Sahel Environment",
+        "summary": "Reforestation projects adapted to the Sahel, promotion of solar energy, combating desertification, and water resource management",
+        "details": "Our environmental program aims to promote sustainable practices and protect natural resources: reforestation and ecosystem restoration projects, promotion of renewable energy and clean technologies, awareness campaigns on the sustainable management of natural resources, creation of community gardens and agroforestry systems, and the fight against desertification and soil erosion. We work hand in hand with local communities to develop solutions suited to their environment."
+      },
+      {
+        "key": "development",
+        "title": "Rural Development",
+        "summary": "African green economy, promotion of local craftsmanship, rural entrepreneurship initiatives, and agricultural cooperatives",
+        "details": "Our local development program aims to boost the local economy while upholding the principles of sustainable development: support for community entrepreneurship initiatives, promotion of local craftsmanship and regional products, creation of cooperatives and economic interest groups, development of community-based ecotourism, and access to microcredit for sustainable projects. We support communities in building economic models that are both viable and environmentally responsible."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Join Our Mission",
+    "text": "Together, let's build a future where African culture and sustainability meet to create a positive, lasting impact in our communities. Your commitment can make the difference.",
+    "becomeMember": "Become a Member",
+    "support": "Support Our Work",
+    "volunteer": "Become a Volunteer"
+  }
+}

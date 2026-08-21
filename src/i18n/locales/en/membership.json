@@ -1,0 +1,57 @@
+{
+  "title": "Become a Member",
+  "subtitle": "Join our community and take an active part in our mission",
+  "plans": {
+    "sympathisant": {
+      "name": "Supporting Member",
+      "price": "Free",
+      "benefits": [
+        "Monthly newsletter",
+        "Invitations to public events",
+        "Access to educational resources",
+        "Supporter certificate"
+      ]
+    },
+    "actif": {
+      "name": "Active Member",
+      "price": "15,000 FCFA/year",
+      "badge": "Popular",
+      "benefits": [
+        "All Supporting Member benefits",
+        "Participation in general assemblies",
+        "Access to exclusive workshops",
+        "Official membership card",
+        "Discounts on events"
+      ]
+    },
+    "bienfaiteur": {
+      "name": "Benefactor Member",
+      "price": "50,000 FCFA/year",
+      "benefits": [
+        "All previous benefits",
+        "Participation on the advisory board",
+        "Mention in our publications",
+        "Exclusive meetings",
+        "Personalized activity report"
+      ]
+    }
+  },
+  "cta": "Sign up",
+  "form": {
+    "title": "Become a Member",
+    "plan": "Membership type",
+    "planPlaceholder": "Select a plan",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "city": "City/Town",
+    "cityPlaceholder": "E.g.: Ouagadougou, Bobo-Dioulasso…",
+    "profession": "Occupation",
+    "motivation": "Motivation",
+    "motivationPlaceholder": "Why would you like to join APCDD?",
+    "termsAgreement": "I accept the membership terms and the privacy policy",
+    "submit": "Sign up",
+    "success": "Registration successful!",
+    "error": "Network or server error, please try again later."
+  }
+}

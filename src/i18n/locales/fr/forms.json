@@ -1,0 +1,46 @@
+{
+  "validation": {
+    "fullName": { "min": "Le nom complet doit contenir au moins 2 caractères" },
+    "name": { "min": "Le nom doit contenir au moins 2 caractères" },
+    "email": { "invalid": "Adresse email invalide", "required": "L'email est requis" },
+    "phone": { "min": "Numéro de téléphone trop court", "required": "Le téléphone est requis" },
+    "city": { "min": "La ville doit contenir au moins 2 caractères" },
+    "profession": { "min": "La profession doit contenir au moins 2 caractères" },
+    "motivation": { "min": "Merci de détailler un peu plus votre motivation (10 caractères min.)" },
+    "termsAgreement": { "required": "Vous devez accepter les conditions" },
+    "membershipPlan": { "invalid": "Veuillez sélectionner un plan d'adhésion" },
+    "amount": { "positive": "Le montant doit être supérieur à 0" },
+    "paymentMethod": { "required": "Veuillez choisir un mode de paiement" },
+    "donorName": { "required": "Le nom est requis pour un don non anonyme" },
+    "message": { "min": "Le message doit contenir au moins 10 caractères" },
+    "skills": { "min": "Merci d'indiquer vos compétences" },
+    "availability": { "required": "Veuillez indiquer votre disponibilité" }
+  },
+  "contact": {
+    "quickTitle": "Contactez-nous rapidement",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "Votre email",
+    "phonePlaceholder": "Votre téléphone",
+    "messagePlaceholder": "Votre message",
+    "success": "Merci pour votre message ! Nous vous répondrons bientôt.",
+    "error": "Une erreur est survenue, merci de réessayer plus tard."
+  },
+  "volunteer": {
+    "title": "Devenir Bénévole",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "skills": "Compétences",
+    "availability": "Disponibilité",
+    "availabilityPlaceholder": "Sélectionnez votre disponibilité",
+    "availabilityOptions": {
+      "weekdays": "En semaine",
+      "weekends": "Week-ends",
+      "evenings": "Soirées",
+      "flexible": "Flexible"
+    },
+    "motivation": "Motivation",
+    "submit": "Postuler",
+    "success": "Merci pour votre candidature ! Nous vous contacterons bientôt."
+  }
+}

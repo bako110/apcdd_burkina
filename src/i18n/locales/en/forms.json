@@ -1,0 +1,46 @@
+{
+  "validation": {
+    "fullName": { "min": "Full name must be at least 2 characters long" },
+    "name": { "min": "Name must be at least 2 characters long" },
+    "email": { "invalid": "Invalid email address", "required": "Email is required" },
+    "phone": { "min": "Phone number is too short", "required": "Phone number is required" },
+    "city": { "min": "City must be at least 2 characters long" },
+    "profession": { "min": "Occupation must be at least 2 characters long" },
+    "motivation": { "min": "Please provide a bit more detail about your motivation (10 characters min.)" },
+    "termsAgreement": { "required": "You must accept the terms" },
+    "membershipPlan": { "invalid": "Please select a membership plan" },
+    "amount": { "positive": "The amount must be greater than 0" },
+    "paymentMethod": { "required": "Please choose a payment method" },
+    "donorName": { "required": "Name is required for a non-anonymous donation" },
+    "message": { "min": "Message must be at least 10 characters long" },
+    "skills": { "min": "Please indicate your skills" },
+    "availability": { "required": "Please indicate your availability" }
+  },
+  "contact": {
+    "quickTitle": "Get in touch with us",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "phonePlaceholder": "Your phone number",
+    "messagePlaceholder": "Your message",
+    "success": "Thank you for your message! We will get back to you soon.",
+    "error": "An error occurred, please try again later."
+  },
+  "volunteer": {
+    "title": "Become a Volunteer",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "skills": "Skills",
+    "availability": "Availability",
+    "availabilityPlaceholder": "Select your availability",
+    "availabilityOptions": {
+      "weekdays": "Weekdays",
+      "weekends": "Weekends",
+      "evenings": "Evenings",
+      "flexible": "Flexible"
+    },
+    "motivation": "Motivation",
+    "submit": "Apply",
+    "success": "Thank you for your application! We will contact you soon."
+  }
+}

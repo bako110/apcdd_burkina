@@ -1,0 +1,19 @@
+{
+  "title": "Actualités & Événements",
+  "subtitle": "Suivez nos dernières réalisations et nos prochains événements",
+  "seeAll": "Voir toutes les actualités",
+  "readMore": "Lire la suite",
+  "views": "vues",
+  "back": "Retour",
+  "share": "Partager",
+  "linkCopied": "Lien copié dans le presse-papiers !",
+  "error": "Impossible de charger les actualités pour le moment.",
+  "empty": "Aucune actualité à afficher pour le moment.",
+  "notFound": "Actualité introuvable.",
+  "newsletter": {
+    "title": "Newsletter",
+    "text": "Restez informés de nos actualités et événements",
+    "placeholder": "Votre adresse email",
+    "success": "Merci pour votre abonnement à notre newsletter !"
+  }
+}

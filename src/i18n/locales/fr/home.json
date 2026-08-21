@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "discoverMission": "Découvrir notre mission",
+    "joinUs": "Nous rejoindre"
+  },
+  "stats": {
+    "activeMembers": "Membres engagés",
+    "projectsDone": "Projets menés",
+    "treesPlanted": "Arbres plantés",
+    "villagesTouched": "Villages aidés"
+  },
+  "about": {
+    "title": "Notre Mission",
+    "subtitle": "Nous créons un pont entre tradition africaine et innovation durable pour construire un avenir meilleur",
+    "cards": [
+      {
+        "title": "Promotion Culturelle Africaine",
+        "text": "Valoriser et préserver la richesse culturelle africaine à travers des festivals, expositions et événements artistiques qui célèbrent notre patrimoine ancestral tout en l'adaptant aux défis contemporains du continent."
+      },
+      {
+        "title": "Développement Durable Africain",
+        "text": "Promouvoir des pratiques respectueuses de l'environnement adaptées au contexte africain et sensibiliser aux enjeux écologiques locaux. Nous intégrons les solutions traditionnelles africaines aux innovations modernes."
+      },
+      {
+        "title": "Action Communautaire",
+        "text": "Mobiliser les communautés africaines pour créer des projets d'impact positif alliant culture, éducation et développement. Ensemble, nous bâtissons des solutions durables et inclusives adaptées à nos réalités."
+      }
+    ]
+  },
+  "services": {
+    "title": "Nos Domaines d'Intervention",
+    "subtitle": "Des actions concrètes pour un impact durable et mesurable en Afrique",
+    "items": [
+      {
+        "key": "culture",
+        "title": "Culture & Arts Africains",
+        "summary": "Festivals culturels africains, concerts traditionnels, expositions d'art local et préservation du patrimoine immatériel burkinabè",
+        "details": "Notre programme Culture & Arts vise à préserver et promouvoir le riche patrimoine culturel de nos communautés à travers diverses initiatives : organisation de festivals culturels annuels mettant en valeur les traditions locales, expositions d'art et d'artisanat traditionnel, ateliers de transmission des savoir-faire ancestraux, spectacles de musique et de danse traditionnelle, programmes de documentation et de préservation du patrimoine immatériel. Nous travaillons en étroite collaboration avec les artisans, artistes et gardiens de la tradition pour assurer la pérennité de notre héritage culturel."
+      },
+      {
+        "key": "education",
+        "title": "Éducation Communautaire",
+        "summary": "Programmes éducatifs adaptés, ateliers de formation, transmission des savoirs ancestraux africains et alphabétisation fonctionnelle",
+        "details": "Notre programme éducatif vise à sensibiliser et former les communautés aux enjeux du développement durable tout en valorisant les savoirs traditionnels : ateliers éducatifs dans les écoles et centres communautaires, programmes de formation professionnelle dans les métiers traditionnels, sensibilisation à la protection de l'environnement, échanges intergénérationnels pour la transmission des savoirs, création de supports pédagogiques adaptés aux réalités locales. Nous croyons que l'éducation est la clé pour un développement durable et harmonieux de nos communautés."
+      },
+      {
+        "key": "environment",
+        "title": "Environnement Sahélien",
+        "summary": "Projets de reboisement adaptés au Sahel, promotion des énergies solaires, lutte contre la désertification et gestion des ressources en eau",
+        "details": "Notre programme environnemental vise à promouvoir des pratiques durables et à protéger les ressources naturelles : projets de reboisement et de restauration des écosystèmes, promotion des énergies renouvelables et des technologies propres, sensibilisation à la gestion durable des ressources naturelles, création de jardins communautaires et de systèmes agroforestiers, lutte contre la désertification et l'érosion des sols. Nous travaillons main dans la main avec les communautés locales pour développer des solutions adaptées à leur environnement."
+      },
+      {
+        "key": "development",
+        "title": "Développement Rural",
+        "summary": "Économie verte africaine, promotion de l'artisanat local, initiatives entrepreneuriales rurales et coopératives agricoles",
+        "details": "Notre programme de développement local vise à stimuler l'économie locale tout en respectant les principes du développement durable : soutien aux initiatives entrepreneuriales communautaires, promotion de l'artisanat local et des produits du terroir, création de coopératives et de groupements d'intérêt économique, développement de l'écotourisme communautaire, accès aux microcrédits pour les projets durables. Nous accompagnons les communautés dans la création de modèles économiques viables et respectueux de l'environnement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Rejoignez Notre Mission",
+    "text": "Ensemble, construisons un avenir où culture africaine et durabilité se rencontrent pour créer un impact positif et durable dans nos communautés. Votre engagement peut faire la différence.",
+    "becomeMember": "Devenir Membre",
+    "support": "Soutenir nos Actions",
+    "volunteer": "Devenir Bénévole"
+  }
+}

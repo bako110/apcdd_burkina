@@ -1,0 +1,68 @@
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+@import '@fontsource/playfair-display/500.css';
+@import '@fontsource/playfair-display/600.css';
+@import '@fontsource/playfair-display/700.css';
+@import './theme.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-[var(--color-surface)] text-[var(--color-text-primary)] font-sans antialiased transition-colors duration-300;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display;
+  }
+
+  ::selection {
+    @apply bg-primary-300/60;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  .bg-surface {
+    background-color: var(--color-surface);
+  }
+  .bg-surface-elevated {
+    background-color: var(--color-surface-elevated);
+  }
+  .bg-surface-sunken {
+    background-color: var(--color-surface-sunken);
+  }
+  .text-primary-body {
+    color: var(--color-text-primary);
+  }
+  .text-muted {
+    color: var(--color-text-muted);
+  }
+  .border-subtle {
+    border-color: var(--color-border);
+  }
+}

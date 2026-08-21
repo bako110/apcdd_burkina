@@ -1,0 +1,19 @@
+{
+  "title": "Historique des Événements",
+  "subtitle": "Découvrez les moments marquants de notre association",
+  "pageTitle": "Tous les événements",
+  "seeAll": "Voir tous les événements",
+  "empty": "Aucun événement disponible pour le moment.",
+  "error": "Impossible de charger les événements pour le moment.",
+  "back": "Retour",
+  "notFound": "Événement introuvable.",
+  "location": "Lieu",
+  "readMore": "Voir plus",
+  "status": {
+    "upcoming": "Prévu",
+    "ongoing": "En cours",
+    "completed": "Terminé",
+    "cancelled": "Annulé",
+    "unknown": "Statut inconnu"
+  }
+}

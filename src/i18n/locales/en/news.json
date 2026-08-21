@@ -1,0 +1,19 @@
+{
+  "title": "News & Events",
+  "subtitle": "Follow our latest achievements and upcoming events",
+  "seeAll": "See all news",
+  "readMore": "Read more",
+  "views": "views",
+  "back": "Back",
+  "share": "Share",
+  "linkCopied": "Link copied to clipboard!",
+  "error": "Unable to load news at this time.",
+  "empty": "No news to display yet.",
+  "notFound": "News item not found.",
+  "newsletter": {
+    "title": "Newsletter",
+    "text": "Stay informed about our news and events",
+    "placeholder": "Your email address",
+    "success": "Thank you for subscribing to our newsletter!"
+  }
+}

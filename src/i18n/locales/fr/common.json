@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Nos domaines",
+    "events": "Événements",
+    "gallery": "Galerie",
+    "news": "Actualités",
+    "partners": "Partenaires",
+    "contact": "Contact",
+    "becomeMember": "Devenir membre",
+    "donate": "Faire un don"
+  },
+  "buttons": {
+    "learnMore": "Voir plus",
+    "seeLess": "Voir moins",
+    "close": "Fermer",
+    "send": "Envoyer",
+    "subscribe": "S'abonner",
+    "seeAll": "Voir tout",
+    "backToHome": "Retour à l'accueil",
+    "loading": "Chargement…"
+  },
+  "footer": {
+    "tagline": "Association pour la Promotion de la Culture et du Développement Durable. Nous œuvrons pour un avenir harmonieux entre tradition culturelle africaine et innovation durable.",
+    "followUs": "Suivez-nous",
+    "navigation": "Navigation",
+    "services": "Services",
+    "contact": "Contact",
+    "quickContact": "Contactez-nous rapidement",
+    "rightsReserved": "APCDD - Burkina Faso. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Cookies"
+  },
+  "theme": {
+    "toggleToDark": "Activer le mode sombre",
+    "toggleToLight": "Activer le mode clair"
+  },
+  "language": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée."
+  }
+}

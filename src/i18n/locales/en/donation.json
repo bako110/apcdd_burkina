@@ -1,0 +1,39 @@
+{
+  "title": "Support Our Work",
+  "text": "Your generosity allows us to carry out our cultural and environmental projects. Every contribution counts and makes a difference in the lives of African communities.",
+  "impacts": {
+    "trees": { "amount": "5,000 FCFA", "label": "Plants 10 trees" },
+    "artisan": { "amount": "10,000 FCFA", "label": "Trains an artisan" },
+    "festival": { "amount": "25,000 FCFA", "label": "Supports a festival" },
+    "project": { "amount": "50,000 FCFA", "label": "Launches a project" }
+  },
+  "form": {
+    "title": "Make a Donation",
+    "amount": "Donation amount (FCFA)",
+    "customAmount": "Other amount in FCFA",
+    "donorName": "Full name",
+    "donorEmail": "Email",
+    "donorPhone": "Phone",
+    "purpose": "Donation purpose",
+    "purposes": {
+      "general": "General fund",
+      "environment": "Sahel environmental projects",
+      "culture": "African cultural promotion",
+      "education": "Community education programs",
+      "rural": "Rural development"
+    },
+    "paymentMethod": "Payment method",
+    "paymentMethodPlaceholder": "Choose a payment method",
+    "paymentMethods": {
+      "mobile": "Mobile Money (Orange/Moov/Airtel)",
+      "bank": "Local bank transfer",
+      "cash": "Cash at our office",
+      "western": "Western Union"
+    },
+    "anonymous": "Anonymous donation",
+    "submit": "Donate",
+    "success": "Thank you for your donation!",
+    "error": "Network or server error, please try again later.",
+    "invalidAmount": "Please select or enter a valid donation amount."
+  }
+}

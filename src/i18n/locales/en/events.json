@@ -1,0 +1,19 @@
+{
+  "title": "Our Events History",
+  "subtitle": "Discover the milestones of our association",
+  "pageTitle": "All Events",
+  "seeAll": "See all events",
+  "empty": "No events available at this time.",
+  "error": "Unable to load events at this time.",
+  "back": "Back",
+  "notFound": "Event not found.",
+  "location": "Location",
+  "readMore": "See more",
+  "status": {
+    "upcoming": "Upcoming",
+    "ongoing": "Ongoing",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "unknown": "Unknown status"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "text": "We collect information when you register on our site, make a donation, subscribe to our newsletter, or fill out a form."
+      },
+      {
+        "heading": "2. Use of Information",
+        "text": "The information we collect may be used to personalize your experience, improve our website, enhance service to members, and contact you by email."
+      },
+      {
+        "heading": "3. Protection of Information",
+        "text": "We implement a variety of security measures to maintain the safety of your personal information."
+      },
+      {
+        "heading": "4. Disclosure to Third Parties",
+        "text": "We do not sell, trade, or otherwise transfer your personally identifiable information to third parties."
+      },
+      {
+        "heading": "5. Consent",
+        "text": "By using our site, you consent to our privacy policy."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "sections": [
+      { "heading": "1. Acceptance of Terms", "text": "By accessing this website, you agree to be bound by these terms of use." },
+      { "heading": "2. Changes", "text": "We reserve the right to modify these terms at any time." },
+      { "heading": "3. Intellectual Property", "text": "All content published on this site is the property of APCDD or its partners." },
+      { "heading": "4. Limitation of Liability", "text": "APCDD shall not be liable for any damages resulting from the use of this site." },
+      { "heading": "5. Governing Law", "text": "These terms are governed by the laws of Burkina Faso." }
+    ]
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "intro": "Our website uses cookies to improve your browsing experience. Cookies are small text files stored on your device.",
+    "types": [
+      { "label": "Necessary Cookies", "text": "Essential for our website to function." },
+      { "label": "Analytics Cookies", "text": "Help us understand how you use our site so we can improve it." }
+    ],
+    "outro": "You can manage your cookie preferences in your browser settings."
+  }
+}
