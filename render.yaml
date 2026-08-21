@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: apcdd-burkina
+    runtime: static
+    branch: main
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://apcddbackend.onrender.com/api
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
